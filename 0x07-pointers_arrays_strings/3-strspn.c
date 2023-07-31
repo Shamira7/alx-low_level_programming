@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn - Entru point
+ *int _strspn - Entru point
  * @s: input
  * @accept: input
  * Return: Always 0 (success)
