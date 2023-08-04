@@ -4,8 +4,8 @@
 #include <ctype.h>
 #include <string.h>
 
-char *_strstr(char *haystack, char *needle)
+int _putchar(char c)
 
 {
-	return strstr(haystack, needle);
+	return putchar(c);
 }
